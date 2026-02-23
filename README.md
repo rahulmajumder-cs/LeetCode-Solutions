@@ -1,10 +1,21 @@
-# LeetCode Solutions
+# Arrays Problems – LeetCode Solutions
 
-Hello, I am Rahul Majumder.
-I am a Computer Science student learning Data Structures and Algorithms.
+This folder contains LeetCode problems related to Arrays.
 
-This repository contains my daily LeetCode problem solutions.
+Topics Covered:
+- Array traversal
+- Searching elements
+- Pair sum problems
+- Sorting basics
+- Index-based problems
 
-Language: C++ / Java
+Purpose:
+- Improve problem solving skills
+- Strengthen Data Structures knowledge
+- Prepare for coding interviews
 
-Goal: Improve problem solving skills and coding consistency.
+Language Used:
+C / C++
+
+Author: Rahul Majumder
+Year: 2026
