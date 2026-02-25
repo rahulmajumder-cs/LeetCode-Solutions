@@ -5,6 +5,7 @@ Language: C
 */
 
 Code:
+
 #include <string.h>
 
 int value(char r) {
