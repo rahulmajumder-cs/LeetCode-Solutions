@@ -3,7 +3,6 @@ Language: c
 Topic: Sqrt(x)
 */
 
-
 int mySqrt(int x) {
     if (x < 2) {
         return x;
