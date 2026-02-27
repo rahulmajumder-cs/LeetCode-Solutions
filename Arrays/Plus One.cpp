@@ -1,7 +1,7 @@
 /*
 Problem: Plus One
 Language: C
-/*
+*/
 
 
 #include <stdlib.h>
