@@ -3,6 +3,7 @@ Problem: Longest Common Prefix
 language: c
 */
 
+
 #include <stdio.h>
 #include <string.h>
 
