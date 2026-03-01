@@ -2,6 +2,7 @@
 Problem: Longest Substring Without Repeating Characters
 Language: C
 */
+
 #include <stdio.h>
 #include <string.h>
 
