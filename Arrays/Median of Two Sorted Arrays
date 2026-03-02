@@ -3,7 +3,6 @@ Problem: Median of Two Sorted Arrays
 Language: C
 */
 
-
 #include <limits.h>
 
 double findMedianSortedArrays(int* nums1, int m, int* nums2, int n) {
