@@ -3,7 +3,6 @@ Problem: Longest Palindrome Substring
 Language: C
 */
 
-
 #include <stdio.h>
 #include <string.h>
 
