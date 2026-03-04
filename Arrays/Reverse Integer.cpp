@@ -4,7 +4,6 @@ Language: C
 */
 
 
-
 int reverse(int x) {
     int rev = 0;
 
