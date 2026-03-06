@@ -2,6 +2,7 @@
     Problem: Remove Duplicates from Sorted Array
     Language: C
 */
+
 int removeDuplicates(int* nums, int numsSize) {
     if (numsSize == 0) {
         return 0;
