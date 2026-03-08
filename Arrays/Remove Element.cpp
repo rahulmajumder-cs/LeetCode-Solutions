@@ -1,3 +1,7 @@
+/*
+    Problem: Remove Element
+    Language: C
+*/
 int removeElement(int* nums, int numsSize, int val) {
     int k = 0;
     
